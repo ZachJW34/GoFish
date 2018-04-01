@@ -1,0 +1,313 @@
+Zach draws a Queen
+Zach draws a Jack
+Zach draws a Queen
+Zach draws a 9
+Zach draws a 6
+Zach draws a 7
+Zach draws a 2
+Eric draws a 9
+Eric draws a 4
+Eric draws a Queen
+Eric draws a 10
+Eric draws a 9
+Eric draws a 3
+Eric draws a 8
+
+
+Zach books a Queen
+Eric books a 9
+
+
+Zach asks: Do you have a 6?
+Eric says: Go Fish
+Zach draws a 6
+Zach books a 6
+
+
+Eric asks: Do you have a 10?
+Zach says: Go Fish
+Eric draws a 3
+Eric books a 3
+
+
+Zach asks: Do you have a 2?
+Eric says: Go Fish
+Zach draws a 5
+
+
+Eric asks: Do you have a 10?
+Zach says: Go Fish
+Eric draws a 5
+
+
+Zach asks: Do you have a 2?
+Eric says: Go Fish
+Zach draws a Ace
+
+
+Eric asks: Do you have a 8?
+Zach says: Go Fish
+Eric draws a 8
+Eric books a 8
+
+
+Zach asks: Do you have a 7?
+Eric says: Go Fish
+Zach draws a 5
+Zach books a 5
+
+
+Eric asks: Do you have a 4?
+Zach says: Go Fish
+Eric draws a 4
+Eric books a 4
+
+
+Zach asks: Do you have a 7?
+Eric says: Go Fish
+Zach draws a 6
+
+
+Eric asks: Do you have a 10?
+Zach says: Go Fish
+Eric draws a 2
+
+
+Zach asks: Do you have a 7?
+Eric says: Go Fish
+Zach draws a 7
+Zach books a 7
+
+
+Eric asks: Do you have a 10?
+Zach says: Go Fish
+Eric draws a 8
+
+
+Zach asks: Do you have a 9?
+Eric says: Go Fish
+Zach draws a 3
+
+
+Eric asks: Do you have a Queen?
+Zach says: Go Fish
+Eric draws a Ace
+
+
+Zach asks: Do you have a 3?
+Eric says: Go Fish
+Zach draws a 10
+
+
+Eric asks: Do you have a 5?
+Zach says: Go Fish
+Eric draws a 5
+Eric books a 5
+
+
+Zach asks: Do you have a Jack?
+Eric says: Go Fish
+Zach draws a 6
+Zach books a 6
+
+
+Eric asks: Do you have a Ace?
+Zach says: Yes, I have a Ace
+Eric books a Ace
+Eric asks: Do you have a 10?
+Zach says: Yes, I have a 10
+Eric books a 10
+Eric asks: Do you have a 8?
+Zach says: Go Fish
+Eric draws a King
+
+
+Zach asks: Do you have a 2?
+Eric says: Yes, I have a 2
+Zach books a 2
+Zach asks: Do you have a Jack?
+Eric says: Go Fish
+Zach draws a 7
+
+
+Eric asks: Do you have a Queen?
+Zach says: Go Fish
+Eric draws a Jack
+
+
+Zach asks: Do you have a 9?
+Eric says: Go Fish
+Zach draws a 7
+Zach books a 7
+
+
+Eric asks: Do you have a Queen?
+Zach says: Go Fish
+Eric draws a 10
+
+
+Zach asks: Do you have a Jack?
+Eric says: Yes, I have a Jack
+Zach books a Jack
+Zach asks: Do you have a 9?
+Eric says: Go Fish
+Zach draws a Queen
+
+
+Eric asks: Do you have a Queen?
+Zach says: Yes, I have a Queen
+Eric books a Queen
+Eric asks: Do you have a King?
+Zach says: Go Fish
+Eric draws a 9
+
+
+Zach asks: Do you have a 3?
+Eric says: Go Fish
+Zach draws a 4
+
+
+Eric asks: Do you have a 10?
+Zach says: Go Fish
+Eric draws a 10
+Eric books a 10
+
+
+Zach asks: Do you have a 3?
+Eric says: Go Fish
+Zach draws a King
+
+
+Eric asks: Do you have a 8?
+Zach says: Go Fish
+Eric draws a Ace
+
+
+Zach asks: Do you have a 4?
+Eric says: Go Fish
+Zach draws a 2
+
+
+Eric asks: Do you have a 9?
+Zach says: Yes, I have a 9
+Eric books a 9
+Eric asks: Do you have a King?
+Zach says: Yes, I have a King
+Eric books a King
+Eric asks: Do you have a 8?
+Zach says: Go Fish
+Eric draws a Jack
+
+
+Zach asks: Do you have a 4?
+Eric says: Go Fish
+Zach draws a 8
+
+
+Eric asks: Do you have a Jack?
+Zach says: Go Fish
+Eric draws a 2
+
+
+Zach asks: Do you have a 8?
+Eric says: Yes, I have a 8
+Zach books a 8
+Zach asks: Do you have a 4?
+Eric says: Go Fish
+Zach draws a 3
+Zach books a 3
+
+
+Eric asks: Do you have a Ace?
+Zach says: Go Fish
+Eric draws a King
+
+
+Zach asks: Do you have a 4?
+Eric says: Go Fish
+Zach draws a 4
+Zach books a 4
+
+
+Eric asks: Do you have a Ace?
+Zach says: Go Fish
+Eric draws a King
+Eric books a King
+
+
+Zach asks: Do you have a 2?
+Eric says: Yes, I have a 2
+Zach books a 2
+Zach ran out of cards. He draws a Jack
+
+
+Eric asks: Do you have a Ace?
+Zach says: Go Fish
+Eric draws a Ace
+Eric books a Ace
+
+
+Zach asks: Do you have a Jack?
+Eric says: Yes, I have a Jack
+Zach books a Jack
+
+
+
+
+Zach and Eric tie with a book sizes of 13.
+Zach's books are...
+Queen of Spades
+Queen of Clubs
+6 of Diamonds
+6 of Clubs
+5 of Diamonds
+5 of Hearts
+7 of Diamonds
+7 of Spades
+6 of Spades
+6 of Hearts
+2 of Hearts
+2 of Clubs
+7 of Hearts
+7 of Clubs
+Jack of Hearts
+Jack of Diamonds
+8 of Diamonds
+8 of Spades
+3 of Hearts
+3 of Diamonds
+4 of Diamonds
+4 of Clubs
+2 of Diamonds
+2 of Spades
+Jack of Spades
+Jack of Clubs
+
+Eric's books are...
+9 of Diamonds
+9 of Clubs
+3 of Spades
+3 of Clubs
+8 of Hearts
+8 of Clubs
+4 of Hearts
+4 of Spades
+5 of Spades
+5 of Clubs
+Ace of Clubs
+Ace of Diamonds
+10 of Diamonds
+10 of Clubs
+Queen of Hearts
+Queen of Diamonds
+10 of Spades
+10 of Hearts
+9 of Hearts
+9 of Spades
+King of Hearts
+King of Clubs
+King of Spades
+King of Diamonds
+Ace of Spades
+Ace of Hearts
+
